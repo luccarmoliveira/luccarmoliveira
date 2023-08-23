@@ -1,7 +1,7 @@
 # Lucca Reis
 <p>
 <li>👋 Oi, eu sou Lucca</li>
-<li>👨‍💻  Técnico em Informática</li>
+<li>💻 Técnico em Informática</li>
 <li>📋 Atualmente estou revisando conteúdos da grade técnica</li>
 <li>📟 Entre em contato comigo: https://linktr.ee/luccarmoliveira</li>
   </p>
