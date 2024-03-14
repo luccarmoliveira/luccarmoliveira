@@ -8,5 +8,5 @@
 <br><br><br>
 <div align="center">
   <img width="49%" heigth="195px" src="https://github-readme-stats.vercel.app/api?username=luccarmoliveira&layout=compact&hide_border=true&show_icons=true&title_color=80AB7B&icon_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" alt="Lucca R. M. Oliveira Github Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&hide_border=true&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&layout=compact&hide_border=true&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
 </div>
