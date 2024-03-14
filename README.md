@@ -1,9 +1,4 @@
-# Lucca Reis
-<p>
-<li>👋 Oi, eu sou Lucca</li>
-<li>💻 Técnico em Informática</li>
-<li>📋 Atualmente estou revisando conteúdos da grade técnica</li>
-<li>📟 Entre em contato comigo: https://linktr.ee/luccarmoliveira</li>
-  </p>
-<p>Estou retornando aos estudos em programação depois de largar a área de TI durante a pandemia e me tornar auxiliar de cozinha. Todos me abriram os olhos para que voltasse para a área, pois é o que eu amo fazer e cá estou eu metendo a cara nos estudos para relembrar tudo aquilo que estudei durante meus 3 anos de curso técnico, revisando, reaprendendo, ressignificando o que programação é na minha vida.</p>
-<p>OBS: Eu amo listas! <3</p>
+<!-- Imagem  do Cabeçalho -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80AB7B&height=100&section=header" />
+<!-- Título do Cabeçalho -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80AB7B&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Lucca;Sou+técnico+de+informática+e+desenvolvedor+front-end:%29)](https://git.io/typing-svg)
