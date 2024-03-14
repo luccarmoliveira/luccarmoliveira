@@ -1,3 +1,7 @@
+<!-- Song -->
+<audio controls autoplay>
+  <source src="https://youtu.be/pE6wnVGVafI" type="audio/mpeg">
+</audio>
 <!-- Imagem  do Cabeçalho -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80AB7B&height=100&section=header" alt="Animação de ondas verdes" />
 <!-- Título do Cabeçalho -->
