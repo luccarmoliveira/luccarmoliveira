@@ -11,4 +11,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&layout=compact&hide_border=true&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
 </div>
 
-![Snake animation](https://github.com/luccarmoliveira/luccarmoliveira/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
