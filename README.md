@@ -1,7 +1,3 @@
-<!-- Song -->
-<audio controls autoplay>
-  <source src="https://youtu.be/pE6wnVGVafI" type="audio/mp3">
-</audio>
 <!-- Imagem  do Cabeçalho -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80AB7B&height=100&section=header" alt="Animação de ondas verdes" />
 <!-- Título do Cabeçalho -->
@@ -12,5 +8,5 @@
 <br><br><br>
 <div align="center">
   <img width="49%" heigth="195px" src="https://github-readme-stats.vercel.app/api?username=luccarmoliveira&layout=compact&hide_border=true&show_icons=true&title_color=80AB7B&icon_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" alt="Lucca R. M. Oliveira Github Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&hide_border=true&&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&hide_border=true&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
 </div>
