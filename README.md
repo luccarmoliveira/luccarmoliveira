@@ -69,6 +69,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccarmoliveira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">Número de Visitas:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" /></p>
 
 <!-- Snake Game -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
