@@ -15,6 +15,7 @@
 
 <!-- Skills -->
 <h2 align="center">📗 My Skills 📗</h2>
+
 <h4>• Languages</h4>
 
 [![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
@@ -46,29 +47,20 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Photopea](https://img.shields.io/badge/-Photopea-000?style=for-the-badge&logo=photopea)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<details>
-  <summary>Design</summary>
-<br>
-  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
-
 
 <!-- GitHub Stats -->
+<h2 align="center">📊 Github Statistic 📊</h2>
+
 <div align="center">
   <img width="49%" heigth="195px" src="https://github-readme-stats.vercel.app/api?username=luccarmoliveira&layout=compact&hide_border=true&show_icons=true&title_color=80AB7B&icon_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" alt="Lucca R. M. Oliveira Github Stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&layout=compact&hide_border=true&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccarmoliveira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Snake Game -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
