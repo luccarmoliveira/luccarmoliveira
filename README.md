@@ -10,8 +10,7 @@
 <!-- Social -->
 <div align="center">
   <a href="mailto:luccarmoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-567357?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/oieusoulucca" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-567357.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/oieusoulucca" target="_blank"><img src="https://img.shields.io/badge/Instagram-567357.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/luccarmoliveira" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-567357.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://linktr.ee/luccarmoliveira" target="_blank">
