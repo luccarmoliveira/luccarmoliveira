@@ -3,14 +3,16 @@
 
 <!-- Header Title -->
 <a href="https://github.com/luccarmoliveira">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Hi%2C+I'm+Lucca;I'm+a+Computer+Technician%2C+Designer+and+Front-End+Developer" alt="Oi, eu sou Lucca.Sou Técnico de Informática, Designer e Desenvolvedor Front-End." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Hi%2C+I'm+Lucca;I'm+a+Computer+Technician%2C+Designer+and+Front-End+Developer" alt="Hi, I'm Lucca. I'm a Computer Technician, Designer and Front-End Developer" />
 </a>
 <br><br><br>
 
 <!-- Social -->
 <div align="center">
-  <a href="mailto:luccarmoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-567357?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/oieusoulucca" target="_blank"><img src="https://img.shields.io/badge/Instagram-567357.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:luccarmoliveira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-567357?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/oieusoulucca" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-567357.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/luccarmoliveira" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-567357.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://linktr.ee/luccarmoliveira" target="_blank">
