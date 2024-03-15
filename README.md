@@ -6,22 +6,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Hi%2C+I'm+Lucca;I'm+a+Computer+Technician%2C+Designer+and+Front-End+Developer" alt="Oi, eu sou Lucca.Sou Técnico de Informática, Designer e Desenvolvedor Front-End." />
 </a>
 <br><br><br>
+
 <!-- Social -->
 <div align="center">
-
-  ![Gmail](https://img.shields.io/badge/Gmail-567357?style=for-the-badge&logo=gmail&logoColor=white)
-  ![Instagram](https://img.shields.io/badge/Instagram-567357.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-567357.svg?style=for-the-badge&logo=discord&logoColor=white)
-  ![LinkedIn](https://img.shields.io/badge/linkedin-567357.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Linktree](https://img.shields.io/badge/linktree-567357?style=for-the-badge&logo=linktree&logoColor=white)
-
+  <a href="mailto:luccarmoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-567357?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/oieusoulucca">
+    <img src="https://img.shields.io/badge/Instagram-567357.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luccarmoliveira">
+    <img src="https://img.shields.io/badge/linkedin-567357.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/luccarmoliveira">
+    <img src="https://img.shields.io/badge/linktree-567357?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
 </div>
-<hr>
 
-  <!-- About Me -->
-  <samp>
-    At the age of 18 I completed the Technical Course in Informatics, but the love for the IT area only increased with each learning. I studied UI Design and applied my knowledge during the internship. Web Development is my favorite area, nothing can be more rewarding than delivering a beautiful, harmonious and responsive website to the client. I am currently an active student at <a href="https://iwtraining.com.br/">IWTraining</a>, studying FullStack Development.
-  </samp>
+<!-- About Me -->
+<hr>
+<samp>
+  At the age of 18 I completed the Technical Course in Informatics, but the love for the IT area only increased with each learning. I studied UI Design and applied my knowledge during the internship. Web Development is my favorite area, nothing can be more rewarding than delivering a beautiful, harmonious and responsive website to the client. I am currently an active student at <a href="https://iwtraining.com.br/">IWTraining</a>, studying FullStack Development.
+</samp>
 <hr>
 
 <!-- Skills -->
