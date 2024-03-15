@@ -55,8 +55,6 @@
 <h4>• Design</h4>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-3B4E3F.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-3B4E3F.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-3B4E3F.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-3B4E3F?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Photopea](https://img.shields.io/badge/-Photopea-3B4E3F?style=for-the-badge&logo=photopea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-3B4E3F.svg?style=for-the-badge&logo=Canva&logoColor=white)
