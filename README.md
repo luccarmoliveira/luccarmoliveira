@@ -31,36 +31,36 @@
 
 <h4>• Languages</h4>
 
-![HTML5](https://img.shields.io/badge/HTML5-3B4E3F?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-3B4E3F.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-3B4E3F.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/java-3B4E3F.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-3B4E3F.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-567357?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-567357.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-567357.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-567357.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-567357.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <h4>• Frameworks and Libraries</h4>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-3B4E3F.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-3B4E3F.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-3B4E3F.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3B4E3F.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-567357.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-567357.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-567357.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-567357.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <h4>• Database</h4>
 
-![MariaDB](https://img.shields.io/badge/MariaDB-3B4E3F?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3B4E3F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-567357?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-567357?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>• Repository</h4>
 
-![Git](https://img.shields.io/badge/git-3B4E3F.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-3B4E3F.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-567357.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-567357.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h4>• Design</h4>
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-3B4E3F.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-3B4E3F?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Photopea](https://img.shields.io/badge/-Photopea-3B4E3F?style=for-the-badge&logo=photopea&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-3B4E3F.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-3B4E3F.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-567357.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-567357?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Photopea](https://img.shields.io/badge/-Photopea-567357?style=for-the-badge&logo=photopea&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-567357.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-567357.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 Github Statistic 📊</h2>
