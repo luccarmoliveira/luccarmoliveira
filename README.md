@@ -43,6 +43,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-567357.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-567357.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-567357.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-567357.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 <h4>• Database</h4>
 
@@ -57,6 +58,8 @@
 <h4>• Design</h4>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-567357.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-567357.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-3567357.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-567357?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Photopea](https://img.shields.io/badge/-Photopea-567357?style=for-the-badge&logo=photopea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-567357.svg?style=for-the-badge&logo=Canva&logoColor=white)
