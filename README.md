@@ -59,9 +59,7 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-567357.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-567357.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-567357.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-567357?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Photopea](https://img.shields.io/badge/-Photopea-567357?style=for-the-badge&logo=photopea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-567357.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-567357.svg?style=for-the-badge&logo=figma&logoColor=white)
 
