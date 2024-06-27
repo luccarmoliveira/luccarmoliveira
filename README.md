@@ -3,7 +3,7 @@
 
 <!-- Header Title -->
 <a href="https://github.com/luccarmoliveira">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Hi%2C+I'm+Lucca;I'm+a+Computer+Technician%2C+Designer+and+Front-End+Developer" alt="Hi, I'm Lucca. I'm a Computer Technician, Designer and Front-End Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Oi%2C+eu sou Lucca;Sou+Técnico+em +Informática%2C+Designer+e+Desenvolvedor Web" alt="Oi, eu sou Lucca. Sou Técnico em Informática, Designer e Desenvolvedor Web" />
 </a>
 <br><br><br>
 
@@ -22,14 +22,14 @@
 <!-- About Me -->
 <hr>
 <samp>
-  At the age of 18 I completed the Technical Course in Informatics, but the love for the IT area only increased with each learning. I studied UI Design and applied my knowledge during the internship. Web Development is my favorite area, nothing can be more rewarding than delivering a beautiful, harmonious and responsive website to the client. I am currently an active student at <a href="https://iwtraining.com.br/">IWTraining</a>, studying FullStack Development.
+   Aos 18 anos concluí o Curso Técnico em Informática, mas o amor pela área de TI só aumentava a cada aprendizado. Estudei UI Design e apliquei meus conhecimentos durante o estágio. Desenvolvimento Web é minha área favorita, nada pode ser mais gratificante do que entregar um site bonito, harmonioso e responsivo ao cliente. Atualmente sou um estudante ativo na <a href="https://iwtraining.com.br/">IWTraining</a>, estudando Desenvolvimento FullStack.
 </samp>
 <hr>
 
 <!-- Skills -->
-<h2 align="center">📗 My Skills 📗</h2>
+<h2 align="center">📗 Habilidades 📗</h2>
 
-<h4>• Languages</h4>
+<h4>• Linguagens</h4>
 
 ![HTML5](https://img.shields.io/badge/HTML5-567357?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-567357.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@
 ![Java](https://img.shields.io/badge/java-567357.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-567357.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<h4>• Frameworks and Libraries</h4>
+<h4>• Frameworks e Bibliotecas</h4>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-567357.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-567357.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -45,12 +45,12 @@
 ![Flutter](https://img.shields.io/badge/Flutter-567357.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-567357.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<h4>• Database</h4>
+<h4>• Banco de Dados</h4>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-567357?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-567357?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4>• Repository</h4>
+<h4>• Repositórios</h4>
 
 ![Git](https://img.shields.io/badge/git-567357.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-567357.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -64,7 +64,7 @@
 ![Figma](https://img.shields.io/badge/figma-567357.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Statistic 📊</h2>
+<h2 align="center">📊 Estatísticas do GitHub  📊</h2>
 <div align="center">
   <img width="49%" heigth="100%" src="https://github-readme-stats.vercel.app/api?username=luccarmoliveira&layout=compact&hide_border=true&show_icons=true&title_color=80AB7B&icon_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" alt="Lucca R. M. Oliveira Github Stats"/>
   <img width="41%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarmoliveira&layout=compact&hide_border=true&title_color=80AB7B&text_color=c9d1d9&bg_color=0D1117" />
