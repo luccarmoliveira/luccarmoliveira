@@ -22,7 +22,7 @@
 <!-- About Me -->
 <hr>
 <samp>
-  Aos 18 anos concluí o Curso Técnico em Informática, mas o amor pela área de TI só aumentava a cada aprendizado. Estudei UI Design e apliquei meus conhecimentos durante o estágio. Desenvolvimento Web é minha área favorita, nada pode ser mais gratificante do que entregar um site bonito, harmonioso e responsivo ao cliente. Atualmente sou um estudante ativo na <a href="https://iwtraining.com.br/">IWTraining</a>, estudando Desenvolvimento FullStack.
+  Aos 18 anos concluí o Curso Técnico em Informática, mas o amor pela área de TI só aumentava a cada aprendizado. Estudei UI Design e apliquei meus conhecimentos durante o estágio. Desenvolvimento Web é minha área favorita, nada pode ser mais gratificante do que entregar um site bonito, harmonioso e responsivo ao cliente. Atualmente sou um aluno ativo na <a href="https://iwtraining.com.br/">IWTraining</a>, estudando Desenvolvimento FullStack.
 </samp>
 <hr>
 
