@@ -3,7 +3,7 @@
 
 <!-- Header Title -->
 <a href="https://github.com/luccarmoliveira">
-  <img src="https://readme-typing-svg.demolab.com?font=Popins&pause=500&color=7FAE81&center=true&multiline=true&width=700&height=60&lines=Oi%2C+eu+sou+Lucca.;Sou+Desenvolvedor+Web%2C+Designer+e+T%C3%A9cnico+de+Inform%C3%A1tica." alt="Oi, eu sou Lucca. Sou Desenvolvedor Web, Designer e Técnico em Informática." />
+  <img src="https://readme-typing-svg.demolab.com?font=Popins&pause=500&color=7FAE81&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Oi%2C+eu+sou+Lucca.;Sou+Desenvolvedor+Web%2C+Designer+e+T%C3%A9cnico+de+Inform%C3%A1tica." alt="Oi, eu sou Lucca. Sou Desenvolvedor Web, Designer e Técnico em Informática." />
 </a>
 <br><br><br>
 
