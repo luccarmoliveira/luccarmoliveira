@@ -3,7 +3,8 @@
 
 <!-- Header Title -->
 <a href="https://github.com/luccarmoliveira">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Oi%2C+eu sou Lucca;Sou+Desenvolvedor+Web+%2C+Designer+e+Técnico+em+Informática" alt="Oi, eu sou Lucca. Sou Desenvolvedor Web, Designer e Técnico em Informática." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=80AB7B&center=true&vCenter=true&random=false&width=1000&height=30&lines=Oi%2C+eu sou Lucca;Sou+Desenvolvedor+Web+%2C+Designer+e+Técnico+em+Informática" alt="Oi, eu sou Lucca. Sou Desenvolvedor Web, Designer e Técnico em Informática." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FAE81&width=480&lines=Oi%2C+eu+sou+Lucca.+Sou+Desenvolvedor+Web%2C+Designer+e+T%C3%A9cnico+em+Inform%C3%A1tica." alt="Typing SVG" /></a>
 </a>
 <br><br><br>
 
